@@ -3,7 +3,7 @@
 A lightweight **Security Information and Event Management (SIEM)** dashboard that ingests server logs, visualizes attack attempts, and uses AI to summarize threats.
 
 ## 🔗 Live Demo
-*(Deploy link placeholder)*
+**[View Live Site →](https://sentinellog-ai.vercel.app)**
 
 ## 📸 Screenshots
 *(Upload a screenshot of the dashboard and link it here)*
