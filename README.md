@@ -6,8 +6,7 @@ A lightweight **Security Information and Event Management (SIEM)** dashboard tha
 **[View Live Site →](https://sentinellog-ai.vercel.app)**
 
 ## 📸 Screenshots
-*(Upload a screenshot of the dashboard and link it here)*
-<!-- ![Dashboard](./docs/dashboard.png) -->
+![SentinelLog Dashboard](./screenshot.png)
 
 ## ✨ Features
 - 📊 Real-time attack frequency chart (Recharts)
